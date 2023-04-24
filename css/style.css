@@ -1,0 +1,85 @@
+
+img{
+	
+	height:500px;
+	width:900px;
+	filter:blur(5px);
+	
+}
+img:hover{
+	filter:blur(0);
+	
+}
+
+
+.sheik{
+	
+	height:500px;
+	width:600px;
+	filter:hue-rotate(120deg);
+	
+}
+img:hover{
+	filter:hue-rotate(0deg);
+	
+}
+
+.sheik1{
+	
+	height:600px;
+	width:700px;
+	filter:brightness(50%);
+}
+img:hover{
+	filter:brightness(100%);
+	
+}
+
+.sheik2{
+	
+	height:700px;
+	width:800px;
+	filter:invert(100%);
+	
+}
+img:hover{
+	filter:invert(70%);
+	
+}
+
+.sheik3{
+	
+	height:800px;
+	width:900px;
+	filter:grayscale(100%);
+	
+}
+img:hover{
+	filter:grayscale(50%);
+	
+}
+
+.sheik4{
+	
+	height:600px;
+	width:800px;
+	filter:saturate(300%);
+	
+}
+img:hover{
+	filter:saturate(100%);
+	
+}
+
+.sheik5{
+	
+	height:600px;
+	width:800px;
+	filter:sepia(100%);
+	
+}
+img:hover{
+	filter:sepia(50%);
+	
+}
+
